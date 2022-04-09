@@ -1,6 +1,6 @@
 # Projets
 
-**"SNCF : OBJETS PERDUS"**
+**"SNCF : Objets Perdus"**
 - Modélisation de données avec pandas
 - Visualisation de données : Pie Chart, Treemap, Carte géographique
 - Modèle de machine learning pour la prévision d'objets perdus
