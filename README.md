@@ -1,5 +1,9 @@
 # Projets
 
+**"L'accès à un haut revenu aux Etats-Unis"**
+- Article de recherche scientifique
+- Analyse de données sur R : barplot, mosaicplot, modèle économétrique logit
+
 **"SNCF : Objets Perdus"**
 - Modélisation de données avec pandas
 - Visualisation de données : Pie Chart, Treemap, Carte géographique
